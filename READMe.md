@@ -11,7 +11,7 @@ Ele disponibiliza rotas HTTP que podem ser chamadas pelo n8n como webhooks ou tr
 - Rota `/dashboard` para teste de funcionamento.
 - Rota `/trigger` para receber chamadas do n8n e executar ações de automação.
 - Pode ser deployado no Render ou outro serviço de hospedagem que suporte Node.js.
-- Não possui front-end (HTML/CSS), apenas endpoints para automação.
+- Apenas endpoints para automação.
 
 ---
 
