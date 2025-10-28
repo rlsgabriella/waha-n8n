@@ -31,7 +31,7 @@ Ele disponibiliza rotas HTTP que podem ser chamadas pelo n8n como webhooks ou tr
 
 1. Clone o repositório:
 
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/rlsgabriella/waha-n8n.git
 cd waha-n8n
 
 2. Instale as dependências: 
