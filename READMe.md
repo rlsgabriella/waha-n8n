@@ -31,13 +31,14 @@ Ele disponibiliza rotas HTTP que podem ser chamadas pelo n8n como webhooks ou tr
 
 1. Clone o repositório:
 
-git clone https://github.com/rlsgabriella/waha-n8n.git
-cd waha-n8n
+- git clone https://github.com/rlsgabriella/waha-n8n.git
+
+- cd waha-n8n
 
 2. Instale as dependências: 
 
-npm install
+- npm install
 
 3. Rode o servidor:
 
-npm start
+- npm start
