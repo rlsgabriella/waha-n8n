@@ -1,0 +1,14 @@
+
+
+services:
+  waha:
+    image: devlikeapro/waha:latest
+    container_name: waha
+
+    environment:
+      - WAHA_API_KEY=${WAHA_API_KEY}
+      - WAHA_LOG_LEVEL=${WAHA_LOG_LEVEL}
+      - WAHA_DASHBOARD_USERNAME=${WAHA_DASHBOARD_USERNAME} 
+      - WAHA_DASHBOARD_PASSWORD=${WAHA_DASHBOARD_PASSWORD}
+    ports:
+      - "3000:3000"
