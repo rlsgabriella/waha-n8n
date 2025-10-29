@@ -4,6 +4,13 @@ Este projeto fornece um ambiente Docker para rodar o **WAHA (WhatsApp HTTP API)*
 permitindo integração com o **n8n**, **bots**, e outros serviços.
 
 ---
+## 🧩 Estrutura do Projeto
+```bash
+├── .env.sample
+├── Dockerfile 
+├── docker-compose.yml 
+└── README.md 
+```` 
 
 ## 🧩 Rodar localmente
 
